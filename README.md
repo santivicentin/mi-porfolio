@@ -8,7 +8,7 @@ Este es mi porfolio hecho en HTML y CSS.
 www.linkedin.com/in/santiago-vicentin-a70765244
 
 ## Instalación
-Estos proyectos no necesitan instalacion. Simplemente abre la carpeta, preferentemente en chrome.
+Descargar y posteriormente abrir los index.
 
 
 
