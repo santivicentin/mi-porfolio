@@ -7,7 +7,7 @@ Este es mi porfolio hecho en HTML y CSS.
 ## Redes
 www.linkedin.com/in/santiago-vicentin-a70765244
 
-##Instalación
+## Instalación
 Estos proyectos no necesitan instalacion. Simplemente abre la carpeta, preferentemente en chrome.
 
 
